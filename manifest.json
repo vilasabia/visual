@@ -26,8 +26,9 @@
     ]
   },
   "components": {
-    "html": "https://vilasabia.github.io/visual/calendar-layout.html",
-    "js": "https://vilasabia.github.io/visual/calendar-script.js",
-    "css": "https://vilasabia.github.io/visual/calendar-styles.css"
-  }
-}
+    "html": "https://vilasabia.github.io/visual/viz-codelab.html",
+    "js": "https://vilasabia.github.io/visual/viz-codelab.js",
+    "css": "https://vilasabia.github.io/visual/viz-codelab.css"
+  },
+  "options": {
+   
