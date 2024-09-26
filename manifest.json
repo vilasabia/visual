@@ -1,0 +1,37 @@
+{
+  "name": "Calendário de Reservas",
+  "description": "Visualização de calendário de reservas",
+  "data": {
+    "schema": [
+      {
+        "name": "Checkin",
+        "dataType": "STRING",
+        "conceptType": "DIMENSION"
+      },
+      {
+        "name": "Checkout",
+        "dataType": "STRING",
+        "conceptType": "DIMENSION"
+      },
+      {
+        "name": "Suite",
+        "dataType": "STRING",
+        "conceptType": "DIMENSION"
+      },
+      {
+        "name": "Status",
+        "dataType": "STRING",
+        "conceptType": "DIMENSION"
+      }
+    ]
+  },
+  "style": {
+    "default": {
+      "css": "https://vilasabia.github.io/visual/calendar-styles.css"
+    }
+  },
+  "components": {
+    "html": "https://vilasabia.github.io/visual/calendar-layout.html",
+    "js": "https://vilasabia.github.io/visual/calendar-script.js"
+  }
+}
