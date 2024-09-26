@@ -1,6 +1,6 @@
 {
   "name": "Calendário de Reservas",
-  "description": "Visualização de calendário de reservas",
+  "description": "Visualização de calendário de reservas personalizada",
   "data": {
     "schema": [
       {
@@ -25,13 +25,9 @@
       }
     ]
   },
-  "style": {
-    "default": {
-      "css": "https://vilasabia.github.io/visual/calendar-styles.css"
-    }
-  },
   "components": {
     "html": "https://vilasabia.github.io/visual/calendar-layout.html",
-    "js": "https://vilasabia.github.io/visual/calendar-script.js"
+    "js": "https://vilasabia.github.io/visual/calendar-script.js",
+    "css": "https://vilasabia.github.io/visual/calendar-styles.css"
   }
 }
