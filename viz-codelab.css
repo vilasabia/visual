@@ -1,0 +1,13 @@
+#calendar {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+#calendar div {
+  margin: 5px 0;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+}
